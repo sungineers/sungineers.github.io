@@ -14,5 +14,5 @@ jobs:
       uses: xRealNeon/VuePagesAction@1.0.0
       with:
         username: 'sungineers'
-        reponame: 'sungineers-site'
+        reponame: 'sungineers.github.io'
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
